@@ -2,7 +2,7 @@
   "name": "Uniswap Default List",
   "timestamp": "2021-04-23T02:56:56.096Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 8,
     "patch": 3
   },
@@ -16,7 +16,7 @@
     {
     "name": "CHEFMUSK",
     "address": "0x54764507C819aE230CCF54492A93Dbc309c1c6f3",
-    "symbol": "HODLCOIN",
+    "symbol": "CHEFMUSK",
     "decimals": 9,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/hodlcoin-crypto/chefmusk-tokenlist/main/musk.png"
