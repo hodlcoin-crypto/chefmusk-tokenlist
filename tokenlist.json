@@ -2,7 +2,7 @@
   "name": "Uniswap Default List",
   "timestamp": "2021-04-23T02:56:56.096Z",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 8,
     "patch": 3
   },
@@ -15,7 +15,7 @@
   "tokens": [
     {
     "name": "CHEFMUSK",
-    "address": "0xC3B85746dE26D00e67Fb3A6bCBDC54B85E9a6386",
+    "address": "0x52C69AA10363b018491C4918aa4Fca56e200f511",
     "symbol": "CHEFMUSK",
     "decimals": 9,
     "chainId": 56,
