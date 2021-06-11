@@ -2,7 +2,7 @@
   "name": "Uniswap Default List",
   "timestamp": "2021-04-23T02:56:56.096Z",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 8,
     "patch": 3
   },
@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-    "name": "HODLCOIN",
-    "address": "0x4B9FA928E9e4C5fDdD5d899d11e7735371227c27",
+    "name": "CHEFMUSK",
+    "address": "0x54764507C819aE230CCF54492A93Dbc309c1c6f3",
     "symbol": "HODLCOIN",
     "decimals": 9,
     "chainId": 56,
